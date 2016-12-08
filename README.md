@@ -1,4 +1,6 @@
-# teampi
-Program making for team pi
-Let's get ready with userguide first then execute the java files
-Let's go!
+# Graph coloring
+Program making by team pi.
+
+To know the usage of the programm first read this guide!
+
+If you don't care just go on!
